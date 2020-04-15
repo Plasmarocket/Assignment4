@@ -1,0 +1,32 @@
+//json file
+//create data for the products
+{
+"products": [
+	{
+		"name": "bacon-scented mustache",
+		"price": 4.07,
+		"image": "bacon-mustach.jpg"
+	},
+	{
+		"name": "Godzilla garden gnome",
+		"price": 24.99,
+		"image": "godzilla.jpg"
+	},
+	{
+		"name": "Pizza hat",
+		"price": 11.62,
+		"image": "hat.jpg"
+	},
+	{
+		"name": "Zombie chocolate bunny",
+		"price": 45.00,
+		"image": "bunny.jpg"
+	},
+	{
+		"name": "Turkey hat",
+		"price": 11.62,
+		"image": "Turkey.jpg"
+	}
+
+]
+}
