@@ -4,7 +4,7 @@ let requestURL = 'https://plasmarocket.github.io/lab4/main.json';
 
 //grabs objects from json
 
-fetch(url).then(function(response){
+fetch(requestURL).then(function(response){
 	response.lots().then (function(lots){
 		//store response in variable
 		let lots = request.response;
